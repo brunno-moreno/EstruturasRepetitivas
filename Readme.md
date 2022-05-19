@@ -1,0 +1,1 @@
+Resolução de algumas questões mais simples de Estruturas de Repetição em Java.
