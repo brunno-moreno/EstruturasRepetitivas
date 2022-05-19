@@ -1,6 +1,6 @@
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class ExercicioAula {
+    public class ExercicioAula {
 
 	public static void main(String[] args) {		
 	
